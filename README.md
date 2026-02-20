@@ -3,9 +3,8 @@
 <h2>Data Center Technician Projects:</h2>
 
 - <b>On-Call Readiness Project</b>
-  - [On-call expectations](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [Severity levels and response priorities](https://github.com/joshmadakorcc/post-install-config)
-
+  - [Severity levels and response priorities](https://github.com/LynnetteSmith/data-center-change-management-basics)
+ 
 - <b>Troubleshooting Decision Trees</b>
   - [Visual decision trees for common issues](https://github.com/joshmadakorcc/configure-ad)
 
