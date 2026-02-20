@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lynnette, a <a href="https://linkedin.com/in/lynnettesmith">Data Center Technician</a>☺</h1>
+<h1>Hi, I'm Lynnette, a <a href="https://linkedin.com/in/lynnettesmith">IT Professional for Data Center Ops</a>☺</h1>
 
 <h2>Data Center Technician Projects:</h2>
 
