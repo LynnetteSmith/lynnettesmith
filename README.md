@@ -9,7 +9,7 @@
   - [Visual decision trees for common issues](https://github.com/LynnetteSmith/infrastructure-troubleshooting-decision-trees)
 
 - <b>Data Center Change Management</b>
-  - [Change requests for common data center tasks](https://github.com/joshmadakorcc/configure-ad)
+  - [Change requests for common data center tasks](https://github.com/LynnetteSmith/data-center-change-management-basics)
 
 
 <h2>🤳Connect with me:</h2>
