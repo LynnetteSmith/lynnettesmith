@@ -10,8 +10,3 @@
 
 - <b>Data Center Change Management</b>
   - [Change requests for common data center tasks](https://github.com/LynnetteSmith/data-center-change-management-basics)
-
-
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Lynnette | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://linkedin.com/in/lynnettesmith
